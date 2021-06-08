@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "97995259270",
+    "project_id": "liveasy-1b44e",
+    "storage_bucket": "liveasy-1b44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97995259270:android:75cbfd8a4c7bfc11f08007",
+        "android_client_info": {
+          "package_name": "com.uttkarsh.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97995259270-7a6f18c3b0rbjhu8sodo8c3qccsrvfoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uttkarsh.phoneauth",
+            "certificate_hash": "f989ce284c72e3558d440bc266667da1d2becfac"
+          }
+        },
+        {
+          "client_id": "97995259270-4uoickh5q4o5euh1k6tspolvng15ksk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdmwSyEHzmx-s6nUUjwdt3Urcxcooh7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97995259270-4uoickh5q4o5euh1k6tspolvng15ksk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97995259270-g1jad0s7p3avj75pqamb4g4oqiplif6g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uttkarsh.phoneauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
