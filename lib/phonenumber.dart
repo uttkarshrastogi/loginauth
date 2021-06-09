@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import "package:flutter/material.dart";
 import 'package:phoneauth/otpInput.dart';
+import 'package:phoneauth/success.dart';
 
 class phone extends StatefulWidget {
   const phone({Key? key}) : super(key: key);
@@ -158,6 +159,7 @@ class _phoneState extends State<phone> {
                                   child: Form(
                                     key: _formkey,
                                     child: TextFormField(
+                                      validator: (value) {},
                                       keyboardType: TextInputType.number,
                                       initialValue: "+91",
                                       style: TextStyle(
